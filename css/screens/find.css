@@ -33,6 +33,7 @@
     justify-content: space-between;
     align-items: center;
   }
+  
   .open-post__title {
     font-weight: 600;
     margin-bottom: 7px;
