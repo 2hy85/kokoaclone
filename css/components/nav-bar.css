@@ -27,8 +27,7 @@
       transform: none;
     }
   }
-  
-  .nav__notification {
+    .nav__notification {
     position: absolute;
     left: 15px;
     bottom: 15px;

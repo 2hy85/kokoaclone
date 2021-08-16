@@ -1,3 +1,3 @@
-KokoaClone 2021 Update
+KokoaClone 2021 Update!
 
-HTML & CSS Awesome!
+HTML & CSS Awesome
